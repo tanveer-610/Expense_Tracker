@@ -1,1 +1,4 @@
-"# Expense_Tracker" 
+# Expense_Tracker
+<hr/>
+## Used Technology: Flutter
+
